@@ -6,7 +6,8 @@ A beginner-friendly guide to inspecting, validating, and reading large GZIP-comp
 
 This project documents how to work with the CrackStation human-only wordlist on Kali Linux and other Linux distributions.The guide covers: 
 Identifying compressed file formats
-Reading large text files without opening the entire file in a text editor
+Reading large text files without o[CrackArticles.txt](https://github.com/user-attachments/files/33401918/CrackArticles.txt)
+pening the entire file in a text editor
 Extracting GZIP archives
 Checking file integrity
 Understanding basic Linux command-line operations
